@@ -1,2 +1,1 @@
 # kitchen-clock
-kitchen-clock
